@@ -1,4 +1,4 @@
 # Pig Game
 Pig Game using JavaScript
 
-<a href="hhtps://www.anuragrajan.ml/piggame">PLAY</a>
+<a href="https://www.anuragrajan.ml/piggame">PLAY</a>
