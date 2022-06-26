@@ -59,11 +59,11 @@ main {
 
 .link {
     text-decoration: none;
-    color: #ffffff;
+    color: #f0f0f0;
 }
 
 .link:hover {
-    color: #ffe0e0;
+    color: #bababa;
 }
 
 .player {
