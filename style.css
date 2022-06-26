@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
-* { 
+* {
     margin: 0;
     padding: 0;
     box-sizing: inherit;
@@ -42,14 +42,14 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    transform: all 0.75s;
+    transition: all 0.75s;
 }
 
 /* ELEMENTS */
 .name {
     position: relative;
     font-size: 4rem;
-    text-transform: 1px;
+    text-transform: uppercase;
     letter-spacing: 1px;
     word-spacing: 2px;
     font-weight: 300;
@@ -87,7 +87,7 @@ main {
     width: 65%;
     padding: 2rem;
     text-align: center;
-    transform: all 0.75s;
+    transition: all 0.75s;
 }
 
 .current-label {
@@ -114,10 +114,10 @@ main {
     text-transform: uppercase;
     cursor: pointer;
     font-weight: 400;
-    transform: all 0.2s;
+    transition: all 0.2s;
 
     background-color: white;
-    background-color: rgba(255, 255, 255, 0.60);
+    /*background-color: rgba(255, 255, 255, 0.6); button transparency*/
     backdrop-filter: blur(10px);
 
     padding: 0.7rem 2.5rem;
@@ -156,7 +156,7 @@ main {
     position: absolute;
     left: 50%;
     top: 16.5rem;
-    transform: translate(-50%);
+    transform: translateX(-50%);
     height: 10rem;
     box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
 }
