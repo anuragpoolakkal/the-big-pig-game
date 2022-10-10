@@ -1,7 +1,7 @@
 # The Big Pig Game
 Pig Game using JavaScript
 
-<a href="http://www.anuragrajan.ml/TheBigPigGame">PLAY GAME</a>
+<a href="https://www.anuragp.ml/TheBigPigGame">PLAY GAME</a>
 
 ### How does the game works
 
